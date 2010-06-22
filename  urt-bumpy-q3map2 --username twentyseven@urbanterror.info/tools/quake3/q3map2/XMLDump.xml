@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<q3map_feedback><message level="1">2 threads
+</message><message level="1">Q3Map         - v1.0r (c) 1999 Id Software Inc.
+</message><message level="1">Q3Map (ydnar) - vFS21
+</message><message level="1">Based on q3map2_fs20g, which was forked from 2.5.16
+</message><message level="1">VFS Init: h:/iourbanterror/q3map2/GtkRadiant/tools/quake3/baseq3/
+</message><message level="1">
+</message><message level="3">************ ERROR ************
+Usage: h:\iourbanterror\q3map2\GtkRadiant\tools\quake3\q3map2\Debug\FS_q3map2_3.exe [general options] [options] mapfile
+</message></q3map_feedback>
