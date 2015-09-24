@@ -1,0 +1,1 @@
+This is the mapper tool that allows people to compile maps for use with the Bumpy Engine.
